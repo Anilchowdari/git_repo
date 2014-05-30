@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<string.h>
 int my_strlen(char *s)
 {
 char *p = s;

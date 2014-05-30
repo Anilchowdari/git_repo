@@ -1,0 +1,60 @@
+    1  git clone https://github.com/Anilchowdari/git_repo C:\Git
+    2  git clone http://github.com/Anilchowdari/git_repo C:\Git
+    3  git config --global http.proxy web-proxy.ind.hp.com:8080
+    4  git clone http://github.com/Anilchowdari/git_repo C:\Git
+    5  git status
+    6  cd c:/Git
+    7  git status
+    8  git clone http://github.com/Anilchowdari/git_repo C:\Git
+    9  cd c:Git/
+   10  pwd
+   11  touch sample.c
+   12  git add sample.c
+   13  ls -ltr
+   14  git add sample.c
+   15  git status
+   16  cd C:\Git\Git
+   17  cd /c/Git/Git/
+   18  touch sample.c
+   19  git add sample.c
+   20  git README
+   21  touch README
+   22  git add README
+   23  git status
+   24  vi sample.c 
+   25  vi README
+   26  git commit -m "initial version"
+   27  git status
+   28  git push
+   29  git status
+   30  git commit -m "initial version1"
+   31  git add sample.c
+   32  git status
+   33  git add README
+   34  git status
+   35  git commit -m "initial version 1"
+   36  git log
+   37  git status
+   38  touch test.c
+   39  git status
+   40  git add test.c
+   41  git status
+   42  ls -ltr
+   43  git reset HEAD test.c
+   44  ls -ltr
+   45  git status
+   46  git add test.c
+   47  git status
+   48  vi README
+   49  git status
+   50  vi sample.c 
+   51  git status
+   52  git add README
+   53  git status
+   54  vi README
+   55  git status
+   56  git diff
+   57  git commit
+   58  git lod
+   59  git log
+   60  history >history
