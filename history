@@ -41,3 +41,11 @@
    41  git commit --amend
    42  vi sample.c 
    43  history > history 
+    1  cd ..
+    2  cd ..
+    3  cd ..
+    4  cd c:/git_repo
+    5  git fetch Anil
+    6  git remote -v
+    7  git fetch Anil
+    8  history >>history 
