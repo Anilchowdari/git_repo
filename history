@@ -65,3 +65,9 @@
    14  git push Anil
    15  history
    16  history >> history 
+    1  cd \
+    2  cd ..
+    3  cd ..
+    4  cd c:/git-repo
+    5  cd git_repo
+    6  history  >> history 
