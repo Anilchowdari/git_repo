@@ -1,0 +1,7 @@
+http://www.avajava.com/tutorials/lessons/how-do-i-add-a-project-as-a-dependency-of-another-project.html
+
+https://sites.google.com/site/buildandreleasemanagement/
+
+http://www.scmwise.com/software-build.html
+http://java-success.blogspot.in/2011/09/build-tools-maven-and-ant-interview.html
+http://agile.dzone.com/articles/best-practices-build-and
